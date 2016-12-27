@@ -1,4 +1,3 @@
 # JavaSyntax
 Homework
-
-hhhhhhhhhhhhh
+hiihi
